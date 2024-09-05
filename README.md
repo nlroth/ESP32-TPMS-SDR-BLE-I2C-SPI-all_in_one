@@ -1,4 +1,8 @@
-[![Hits](https://hits.sh/github.com/avicarmeli/TPMS-SDR/hits.svg)](https://hits.sh/github.com/avicarmeli/TPMS-SDR/hits/)
+[![Hits](https://hits.sh/github.com/nlroth/ESP32-TPMS-SDR-BLE-I2C-SPI-all_in_one/hits.svg)](https://hits.sh/github.com/nlroth/ESP32-TPMS-SDR-BLE-I2C-SPI-all_in_one/hits/)
+
+# Using an ESP32/OLED module and CC1101 receiver for receiving & displaying TPMS data and sending via BLE to a smartphone
+
+The following is Avi Carmeli's Readme from https://github.com/avicarmeli/TPMS-SDR/ 
 
 # TPMS Arduino code to read RF TPMS Sensors
 ![image](https://github.com/avicarmeli/TPMS-SDR/assets/32562196/2d5f958e-7c0f-45a7-ba11-a033dc294d37)
