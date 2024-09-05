@@ -4,7 +4,7 @@
 
 The following is Avi Carmeli's Readme from https://github.com/avicarmeli/TPMS-SDR/ 
 
-# Please note: Refer to sourcecode for changes in actual module interface details beyond what is stated in thie readme.
+# Please note: Refer to sourcecode for changes in actual module interface details beyond what is stated in this readme.
 
 # TPMS Arduino code to read RF TPMS Sensors
 ![image](https://github.com/avicarmeli/TPMS-SDR/assets/32562196/2d5f958e-7c0f-45a7-ba11-a033dc294d37)
